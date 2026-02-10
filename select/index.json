@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "運命",
+  "base_artist": "KeeP",
+  "createdAt": "2026-02-10T05:48:42.416694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "運命",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/01_運命_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "運命",
+      "artist": "Koda Kumi",
+      "has_synced": true,
+      "path": "select/02_運命_Koda_Kumi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "運命",
+      "artist": "KODA KUMI",
+      "has_synced": true,
+      "path": "select/03_運命_KODA_KUMI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "運命(The Chance of Love)",
+      "artist": "TVXQ",
+      "has_synced": true,
+      "path": "select/04_運命(The_Chance_of_Love)_TVXQ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "運命",
+      "artist": "2PM",
+      "has_synced": true,
+      "path": "select/05_運命_2PM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "運命 (The Chance of Love) (Japanese Ver.) / Unmei",
+      "artist": "Tohoshinki",
+      "has_synced": true,
+      "path": "select/06_運命_(The_Chance_of_Love)_(Japanese_Ver.)___Unmei_Tohoshinki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "運命 -SADAME-",
+      "artist": "柚木涼香",
+      "has_synced": true,
+      "path": "select/07_運命_-SADAME-_柚木涼香.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "運命",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/08_運命_sumika.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "運命 - Destiny (feat. ImaRyu)",
+      "artist": "KeeP",
+      "has_synced": true,
+      "path": "select/09_運命_-_Destiny_(feat._ImaRyu)_KeeP.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "運命",
+      "artist": "Mayumi Itsuwa",
+      "has_synced": false,
+      "path": "select/10_運命_Mayumi_Itsuwa.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "運命 - Unmei",
+      "artist": "Tani Yuuki",
+      "has_synced": true,
+      "path": "select/11_運命_-_Unmei_Tani_Yuuki.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "運命",
+      "artist": "五輪真弓",
+      "has_synced": false,
+      "path": "select/12_運命_五輪真弓.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "とある預言者の、運命(シックザール)",
+      "artist": "逆巻レイジ(CV.小西克幸)",
+      "has_synced": true,
+      "path": "select/13_とある預言者の、運命(シックザール)_逆巻レイジ(CV.小西克幸).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "イニシエノウタ／運命",
+      "artist": "Okabe, Keiichi",
+      "has_synced": true,
+      "path": "select/14_イニシエノウタ_運命_Okabe,_Keiichi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "運命",
+      "artist": "五輪 真弓",
+      "has_synced": false,
+      "path": "select/15_運命_五輪_真弓.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "運命 - Sadame",
+      "artist": "Mayumi Itsuwa",
+      "has_synced": false,
+      "path": "select/16_運命_-_Sadame_Mayumi_Itsuwa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "運命",
+      "artist": "KeeP, ImaRyu",
+      "has_synced": false,
+      "path": "select/pl_01_運命_KeeP,_ImaRyu.txt"
+    }
+  ]
+}
